@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="810" viewBox="0 0 1440 810">
+    <defs>
+        <radialGradient id="3x1eul9veb" cx="50%" cy="71.023%" r="30.395%" fx="50%" fy="71.023%" gradientTransform="matrix(0 1 -1.26865 0 1.401 .21)">
+            <stop offset="0%" stop-color="#00FFF9"/>
+            <stop offset="100%" stop-color="#1AFFFC"/>
+        </radialGradient>
+        <linearGradient id="m97h3ofpqc" x1="50.135%" x2="50.135%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#202431"/>
+            <stop offset="41.576%" stop-color="#202431" stop-opacity="0"/>
+            <stop offset="76.043%" stop-color="#202431" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#202431"/>
+        </linearGradient>
+        <path id="94uoiel3ra" d="M0 0H1440V810H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <mask id="qwedkzc8jd" fill="#fff">
+                        <use xlink:href="#94uoiel3ra"/>
+                    </mask>
+                    <g>
+                        <use fill="url(#3x1eul9veb)" fill-opacity=".1" xlink:href="#94uoiel3ra"/>
+                        <use fill="url(#m97h3ofpqc)" xlink:href="#94uoiel3ra"/>
+                    </g>
+                    <g stroke="#1AFFFC" stroke-linecap="square" stroke-width=".1" mask="url(#qwedkzc8jd)">
+                        <g>
+                            <path d="M1 0L1 716M21 0L21 716M41 0L41 716M61 0L61 716M81 0L81 716M101 0L101 716M121 0L121 716M141 0L141 716M161 0L161 716M181 0L181 716M201 0L201 716M221 0L221 716M241 0L241 716M261 0L261 716M281 0L281 716M301 0L301 716M321 0L321 716M341 0L341 716M361 0L361 716M381 0L381 716M401 0L401 716M421 0L421 716M441 0L441 716M461 0L461 716M481 0L481 716M501 0L501 716M521 0L521 716M541 0L541 716M561 0L561 716M581 0L581 716M601 0L601 716M621 0L621 716M641 0L641 716M661 0L661 716M681 0L681 716M701 0L701 716M721 0L721 716M741 0L741 716M761 0L761 716M781 0L781 716M801 0L801 716M821 0L821 716M841 0L841 716M861 0L861 716M881 0L881 716M901 0L901 716M921 0L921 716M941 0L941 716M961 0L961 716M981 0L981 716M1001 0L1001 716M1021 0L1021 716M1041 0L1041 716M1061 0L1061 716M1081 0L1081 716M1101 0L1101 716M1121 0L1121 716M1141 0L1141 716M1161 0L1161 716M1181 0L1181 716M1201 0L1201 716M1221 0L1221 716M1241 0L1241 716M1261 0L1261 716M1281 0L1281 716M1301 0L1301 716M1321 0L1321 716M1341 0L1341 716M1361 0L1361 716M1381 0L1381 716M1401 0L1401 716" transform="translate(20 210)"/>
+                        </g>
+                    </g>
+                    <g stroke="#1AFFFC" stroke-linecap="square" stroke-width=".1" mask="url(#qwedkzc8jd)">
+                        <g>
+                            <path d="M0 1L1440 1M0 21L1440 21M0 41L1440 41M0 61L1440 61M0 81L1440 81M0 101L1440 101M0 121L1440 121M0 141L1440 141M0 161L1440 161M0 181L1440 181M0 201L1440 201M0 221L1440 221M0 241L1440 241M0 261L1440 261M0 281L1440 281M0 301L1440 301M0 321L1440 321M0 341L1440 341M0 361L1440 361M0 381L1440 381M0 401L1440 401M0 421L1440 421M0 441L1440 441M0 461L1440 461M0 481L1440 481M0 501L1440 501M0 521L1440 521M0 541L1440 541M0 561L1440 561M0 581L1440 581M0 601L1440 601" transform="translate(1 209)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

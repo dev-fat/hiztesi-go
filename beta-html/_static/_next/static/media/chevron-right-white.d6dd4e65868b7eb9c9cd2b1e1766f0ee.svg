@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="14" viewBox="0 0 8 14">
+    <defs>
+        <path id="s45cveopia" d="M352.586 28l-5.293 5.293c-.39.39-.39 1.024 0 1.414.39.39 1.024.39 1.414 0l6-6c.39-.39.39-1.024 0-1.414l-6-6c-.39-.39-1.024-.39-1.414 0-.39.39-.39 1.024 0 1.414L352.586 28z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-347 -256) translate(0 235)">
+                <use fill="#FFF" fill-rule="nonzero" xlink:href="#s45cveopia"/>
+            </g>
+        </g>
+    </g>
+</svg>

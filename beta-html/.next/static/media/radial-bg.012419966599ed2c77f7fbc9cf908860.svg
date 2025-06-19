@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape@2x</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="71.984375%" y2="58.0898438%" id="linearGradient-1">
+            <stop stop-color="#279CF8" offset="0%"></stop>
+            <stop stop-color="#279CF8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.3463542%" y1="14.5748698%" x2="50%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#12FC87" offset="0%"></stop>
+            <stop stop-color="#279CF8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.483724%" y1="27.1738281%" x2="66.890625%" y2="60.9550781%" id="linearGradient-3">
+            <stop stop-color="#F3FF00" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="53.0546875%" x2="96.796875%" y2="68.5039062%" id="linearGradient-4">
+            <stop stop-color="#FF0000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FE0000" stop-opacity="0.0295531291" offset="53.9126263%"></stop>
+            <stop stop-color="#D80D0D" stop-opacity="0.947944973" offset="100%"></stop>
+        </linearGradient>
+        <path d="M272,172 C327.228475,172 372,216.771525 372,272 C372,327.228475 327.228475,372 272,372 C216.771525,372 172,327.228475 172,272 C172,216.771525 216.771525,172 272,172 Z M272,178.666667 C220.453423,178.666667 178.666667,220.453423 178.666667,272 C178.666667,323.546577 220.453423,365.333333 272,365.333333 C323.546577,365.333333 365.333333,323.546577 365.333333,272 C365.333333,220.453423 323.546577,178.666667 272,178.666667 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-172.000000, -172.000000)">
+            <g id="Combined-Shape">
+                <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-2)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

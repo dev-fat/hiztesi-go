@@ -1,0 +1,158 @@
+{
+  "./downloadChart": [
+    {
+      "id": "ujAs",
+      "file": "static/chunks/6c44d60f.5c0c5b5bb09f924d0b7b.js"
+    },
+    {
+      "id": "o+DJ",
+      "file": "static/chunks/32.c76f6326e8cf507bb531.js"
+    },
+    {
+      "id": "oWH3",
+      "file": "static/chunks/32.c76f6326e8cf507bb531.js"
+    }
+  ],
+  "./messages/en-US.json": [
+    {
+      "id": "Wvus",
+      "file": "static/chunks/34.c4a14b4aafbdf70e535b.js"
+    }
+  ],
+  "./messages/tr-TR.json": [
+    {
+      "id": "5pZ8",
+      "file": "static/chunks/35.9d92bf9b0533c5c893be.js"
+    }
+  ],
+  "./uploadChart": [
+    {
+      "id": "ujAs",
+      "file": "static/chunks/6c44d60f.5c0c5b5bb09f924d0b7b.js"
+    },
+    {
+      "id": "lL6K",
+      "file": "static/chunks/33.e2828d112a24b552ea82.js"
+    },
+    {
+      "id": "o+DJ",
+      "file": "static/chunks/33.e2828d112a24b552ea82.js"
+    }
+  ],
+  "@formatjs/intl-pluralrules/polyfill-locales": [
+    {
+      "id": "4ffF",
+      "file": "static/chunks/600bcb62.8d5103f81de1b3919727.js"
+    },
+    {
+      "id": "/EbR",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "/t4S",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "D01h",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "EPN6",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "Kh0H",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "NneP",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "Zxl2",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "aSO9",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "cQfd",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "joht",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "qYum",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "qujY",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "uB9j",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    }
+  ],
+  "@formatjs/intl-relativetimeformat/polyfill-locales": [
+    {
+      "id": "4ffF",
+      "file": "static/chunks/600bcb62.8d5103f81de1b3919727.js"
+    },
+    {
+      "id": "/EbR",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "/t4S",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "D01h",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "EPN6",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "Kh0H",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "NneP",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "Zxl2",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "aSO9",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "cQfd",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "joht",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "qYum",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "qujY",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    },
+    {
+      "id": "uB9j",
+      "file": "static/chunks/intl-polyfill.d237a127eb7bfd086269.js"
+    }
+  ]
+}

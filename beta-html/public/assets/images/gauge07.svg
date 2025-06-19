@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="723px" height="758px" viewBox="0 0 723 758" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Gauge@2x</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="33.1870833%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#279CF8" offset="0%"></stop>
+            <stop stop-color="#279CF8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.3463542%" y1="14.5748698%" x2="50%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#12FC87" offset="0%"></stop>
+            <stop stop-color="#279CF8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.483724%" y1="27.1738281%" x2="66.890625%" y2="60.9550781%" id="linearGradient-3">
+            <stop stop-color="#F3FF00" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.1912769%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FF0000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D80D0D" stop-opacity="0.947944973" offset="100%"></stop>
+        </linearGradient>
+        <path d="M362,79 C527.685425,79 662,213.314575 662,379 C662,544.685425 527.685425,679 362,679 C196.314575,679 62,544.685425 62,379 C62,213.314575 196.314575,79 362,79 Z M362,129 C223.928813,129 112,240.928813 112,379 C112,517.071187 223.928813,629 362,629 C500.071187,629 612,517.071187 612,379 C612,240.928813 500.071187,129 362,129 Z" id="path-5"></path>
+        <path d="M362,679 C527.685425,679 662,544.685425 662,379 C662,213.314575 527.685425,79 362,79 C196.314575,79 62,213.314575 62,379 C62,433.509471 76.5377927,484.623459 101.947628,528.676214 C153.772798,618.524947 250.824046,679 362,679 Z" id="path-6"></path>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="600" height="600" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <radialGradient cx="50%" cy="-30.6523438%" fx="50%" fy="-30.6523438%" r="100%" id="radialGradient-8">
+            <stop stop-color="#787878" offset="0%"></stop>
+            <stop stop-color="#D9D9D9" offset="49.5077673%"></stop>
+            <stop stop-color="#E5E5E5" offset="61.7803223%"></stop>
+            <stop stop-color="#787878" offset="74.9870056%"></stop>
+            <stop stop-color="#E5E5E5" offset="86.2224968%"></stop>
+            <stop stop-color="#787878" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-9">
+            <stop stop-color="#787878" offset="0%"></stop>
+            <stop stop-color="#E5E5E5" offset="13.1372437%"></stop>
+            <stop stop-color="#E5E5E5" offset="37.920863%"></stop>
+            <stop stop-color="#787878" offset="49.8754936%"></stop>
+            <stop stop-color="#E5E5E5" offset="61.7803223%"></stop>
+            <stop stop-color="#787878" offset="74.9870056%"></stop>
+            <stop stop-color="#E5E5E5" offset="86.2224968%"></stop>
+            <stop stop-color="#787878" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="43.4025586%" y1="59.1933342%" x2="50%" y2="59.1933342%" id="linearGradient-10">
+            <stop stop-color="#DEDEDE" offset="0%"></stop>
+            <stop stop-color="#B3B3B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50.0004526%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="50.3153603%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50.0002983%" id="linearGradient-12">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="48.9875973%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.6567968%" y1="86.292334%" x2="15.1581222%" y2="14.4379082%" id="linearGradient-13">
+            <stop stop-color="#B6B6B6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DCDCDC" offset="50.3153603%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.5744142%" y1="16.6675552%" x2="16.0320179%" y2="84.3747166%" id="linearGradient-14">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#DCDCDC" offset="50.3153603%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-15" cx="131" cy="131" r="37"></circle>
+        <filter x="-18.2%" y="-18.2%" width="144.6%" height="144.6%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Gauge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g xmlns="http://www.w3.org/2000/svg" id="İbre" transform="translate(231.000000, 248.000000)">
+                    <polygon id="Triangle-Copy" fill="url(#linearGradient-10)" transform="translate(56.500000, 56.500000) rotate(-45.000000) translate(-56.500000, -56.500000) " points="56.5 -13 66 126 56.5 125.089358 47 126"/>
+                    <g id="pim" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                        <use fill="#FFFFFF" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                        <use fill-opacity="0.4" fill="url(#linearGradient-11)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                        <use fill-opacity="0.5" fill="url(#linearGradient-12)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                        <use fill-opacity="0.5" fill="url(#linearGradient-13)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                        <use fill-opacity="0.5" fill="url(#linearGradient-14)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path-15"/>
+                    </g>
+                </g>
+    </g>
+</svg>

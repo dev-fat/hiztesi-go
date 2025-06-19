@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about-us": "pages/about-us.js",
+  "/forgot-password": "pages/forgot-password.js",
+  "/history": "pages/history.js",
+  "/": "pages/index.js",
+  "/live": "pages/live.js",
+  "/login": "pages/login.js",
+  "/mobile-apps": "pages/mobile-apps.js",
+  "/post": "pages/post.js",
+  "/profile": "pages/profile.js",
+  "/register": "pages/register.js",
+  "/result": "pages/result.js",
+  "/settings": "pages/settings.js",
+  "/_error": "pages/_error.js"
+}

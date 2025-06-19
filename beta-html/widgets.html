@@ -1,0 +1,318 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>HIZTESTİ - Widgets</title>
+
+    <link rel="stylesheet" href="./pages/reset.css">
+    <link rel="stylesheet" href="./pages/style.css">
+
+    <style>
+      body {
+        padding: 30px;
+        background: #212331;
+      }
+      body * {
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+      }
+      .widget {
+        margin: 20px;
+        width: 350px;
+      }
+      .widget-header {
+        display: flex;
+        height: 40px;
+        padding: 0 10px;
+        align-items: center;
+        justify-content: space-between;
+        background: #5c2a7c;
+      }
+      .widget-header--mobile {
+        padding-right: 37px;
+        background: #5c2a7c url('./public/assets/images/mobile-signal.svg') no-repeat 97%;
+      }
+      .widget-header--wifi {
+        padding-right: 37px;
+        background: #5c2a7c url('./public/assets/images/mobile-signal.svg') no-repeat 97%;
+      }      
+      .widget-header .logo {
+        font-size: 22px;
+        padding-top: 1px;
+      }
+      .widget-header .date {
+        font-size: 12px;
+        text-align:right;
+        line-height: 15px;
+      }
+      .widget-header .logo img {
+        width: 29px;
+        position: relative;
+        top: -3px;
+        vertical-align: middle;
+      }
+      .widget-body {
+        padding: 10px;
+        background: #151723;
+      }
+      .widget-body .stats {
+        display: flex;
+        justify-content: space-between;
+      }
+      .widget-body .stats .label {
+        position: relative;
+        padding-top: 2px;
+        padding-left: 25px;
+        font-size: 13px;
+        font-weight: 700;
+      }
+      .widget-body .stats .label::after {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        content: '';
+        display: block;
+        width: 18px;
+        height: 18px;
+        transform: translateY(-50%);
+        background: url('./public/assets/images/ping-icon.svg') no-repeat center;
+        background-size: 18px 18px;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+      }
+      .widget-body .stats .label::before {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        content: '';
+        display: block;
+        width: 18px;
+        height: 18px;
+        border: solid 2px #bdbecb;
+        border-radius: 100%;
+        transform: translateY(-50%);
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+      }
+      .widget-body .stats .value {
+        margin-top: 3px;
+        padding-left: 27px;
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+      }
+      .widget-body .stats .value small {
+        margin-top: 3px;
+        display: block;
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 12px;
+        font-family: 'Gotham', sans-serif;
+      }
+      .widget-body .stats .download .label {
+        color: #1afffc;
+      }
+      .widget-body .stats .download .label::after {
+        background: url('./public/assets/images/up-arrow.svg') no-repeat center;
+        background-size: 8px 8px;
+      }
+      .widget-body .stats .download .label::before {
+        border-color: #1afffc;
+      }      
+      .widget-body .stats .upload .label {
+        color: #bf71ff;
+      }
+      .widget-body .stats .upload .label::after {
+        background: url('./public/assets/images/up-arrow2.svg') no-repeat center;
+        background-size: 8px 8px;
+      }
+      .widget-body .stats .upload .label::before {
+        border-color: #bf71ff;
+      }       
+      .widget-body .details {
+        padding: 15px 25px;
+        font-size: 13px;
+        color: #fff;
+        line-height: 23px;
+      }     
+      .widget-body .details li span:first-child {
+        display: inline-block;
+        width: 80px;
+        color: #acaebe;
+      }
+      .widget-body .details li img {
+        display: inline-block;
+        width: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="widget">
+      <div class="widget-header">
+        <div class="logo">
+          <img src="./public/assets/images/logo-gauge.svg" alt="" />
+          HIZTESTİ
+        </div>
+        <div class="date">
+          21.06.2018<br />
+          15:11
+        </div>
+      </div>
+      <div class="widget-body">
+        <div class="stats">
+          <div class="ping">
+            <div class="label">PING</div>
+            <div class="value">
+              2 <small>ms</small>
+            </div>
+          </div>
+          <div class="download">
+            <div class="label">İNDİRME</div>
+            <div class="value">
+              10,52 <small>Mbps</small>
+            </div>
+          </div>
+          <div class="upload">
+            <div class="label">YÜKLEME</div>
+            <div class="value">
+              3,46 <small>Mbps</small>
+            </div>
+          </div>
+        </div>
+        <div class="details">
+          <ul>
+            <li>
+              <span>Oylama</span>
+              <span>
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+              </span>
+            </li>
+            <li>
+              <span>İSS</span>
+              <span>Turkcell Superonline</span>
+            </li>
+            <li>
+              <span>SUNUCU</span>
+              <span>Netinternet, İstanbul, 52km</span>
+            </li>                        
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="widget">
+      <div class="widget-header widget-header--mobile">
+        <div class="logo">
+          <img src="./public/assets/images/logo-gauge.svg" alt="" />
+          HIZTESTİ
+        </div>
+        <div class="date">
+          21.06.2018<br />
+          15:11
+        </div>
+      </div>
+      <div class="widget-body">
+        <div class="stats">
+          <div class="ping">
+            <div class="label">PING</div>
+            <div class="value">
+              2 <small>ms</small>
+            </div>
+          </div>
+          <div class="download">
+            <div class="label">İNDİRME</div>
+            <div class="value">
+              10,52 <small>Mbps</small>
+            </div>
+          </div>
+          <div class="upload">
+            <div class="label">YÜKLEME</div>
+            <div class="value">
+              3,46 <small>Mbps</small>
+            </div>
+          </div>
+        </div>
+        <div class="details">
+          <ul>
+            <li>
+              <span>Oylama</span>
+              <span>
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+              </span>
+            </li>
+            <li>
+              <span>İSS</span>
+              <span>Turkcell Superonline</span>
+            </li>
+            <li>
+              <span>SUNUCU</span>
+              <span>Netinternet, İstanbul, 52km</span>
+            </li>                        
+          </ul>
+        </div>
+      </div>
+    </div>    
+    <div class="widget">
+      <div class="widget-header widget-header--wifi">
+        <div class="logo">
+          <img src="./public/assets/images/logo-gauge.svg" alt="" />
+          HIZTESTİ
+        </div>
+        <div class="date">
+          21.06.2018<br />
+          15:11
+        </div>
+      </div>
+      <div class="widget-body">
+        <div class="stats">
+          <div class="ping">
+            <div class="label">PING</div>
+            <div class="value">
+              2 <small>ms</small>
+            </div>
+          </div>
+          <div class="download">
+            <div class="label">İNDİRME</div>
+            <div class="value">
+              10,52 <small>Mbps</small>
+            </div>
+          </div>
+          <div class="upload">
+            <div class="label">YÜKLEME</div>
+            <div class="value">
+              3,46 <small>Mbps</small>
+            </div>
+          </div>
+        </div>
+        <div class="details">
+          <ul>
+            <li>
+              <span>Oylama</span>
+              <span>
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star-filled.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+                <img src="./public/assets/images/star.svg" alt="" />
+              </span>
+            </li>
+            <li>
+              <span>İSS</span>
+              <span>Turkcell Superonline</span>
+            </li>
+            <li>
+              <span>SUNUCU</span>
+              <span>Netinternet, İstanbul, 52km</span>
+            </li>                        
+          </ul>
+        </div>
+      </div>
+    </div>        
+  </body>
+</html>
