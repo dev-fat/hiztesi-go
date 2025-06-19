@@ -1,6 +1,4 @@
-![LibreSpeed Logo](https://github.com/librespeed/speedtest-go/blob/master/.logo/logo3.png?raw=true)
-
-# LibreSpeed
+# HIZTESTI
 
 No Flash, No Java, No WebSocket, No Bullshit.
 
@@ -149,20 +147,3 @@ manually, you can install newer version of Go into your `GOPATH`:
 - There might be a slight delay on program start if your Internet connection is slow. That's because the program will
 attempt to fetch your current network's ISP info for distance calculation between your network and the speed test client's.
 This action will only be taken once, and cached for later use.
-
-## License
-Copyright (C) 2016-2020 Federico Dossena
-Copyright (C) 2020 Maddie Zhan
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/lgpl>.
